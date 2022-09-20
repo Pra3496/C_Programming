@@ -1,16 +1,19 @@
-///////////////////////////////////////////////////////////////////////////////////
-//// 
-////  Program     : Accept 2 numbers fro user and return the maximum and minimum number.
-////
-////  Author      : Pranav Anil Waghmare
-//// 
-////  Language    : C 
-////
-////  Discription : Algorithm for maximum
-////                  
-//// 
-////
-///////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+//
+//  Function name : Maximum
+//  Input         : Integer
+//  Output        : Integer (Maximum Number)
+//  Description   : It is used to check whetheer number is even or odd
+//                  Accept number from user and check whether that number is even or odd.
+//                  Input : 4
+//                  Output : Its even
+//                  Input :7
+//                  Output : Its odd
+//
+//  Date          : 01/03/2021
+//  Author        : Pranav Anil Waghmare
+//
+////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 
