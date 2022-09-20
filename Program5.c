@@ -1,19 +1,17 @@
 ///////////////////////////////////////////////////////////////////////////////////
-//// 
-////  PROGRAM     : Accept number from user and return the addition of all numbers till that number.
-////
-////  AUTHOR      : Pranav Anil Waghmare
-//// 
-////  LANGUAGE    : C 
-////
-////  DISCRIPTION : Algorithm for Accept number from user and return the addition of all numbers till that number
-////                Input : 4
-////                Output : 10 (1 +  2 +  3 +  4)
-////
-////                Input : -6
-////                Output : 21  (1 +  2 +  3 +  4 +  5 +  6)                
-////
-///////////////////////////////////////////////////////////////////////////////////
+//
+//  Input         : Integer
+//  Output        : Integer (Sum of Numbers)
+//  Discription   : Algorithm for Accept number from user and return the addition of all numbers till that number
+//                  Input : 4
+//                  Output : 10 (1 +  2 +  3 +  4)
+//
+//                  Input : -6
+//                  Output : 21  (1 +  2 +  3 +  4 +  5 +  6)  
+//  Date          : 01/03/2021
+//  Author        : Pranav Anil Waghmare
+//
+//////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>
 
