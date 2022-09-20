@@ -3,13 +3,12 @@
 //  Function name : Maximum
 //  Input         : Integer
 //  Output        : Integer (Maximum Number)
-//  Description   : It is used to check whetheer number is even or odd
-//                  Accept number from user and check whether that number is even or odd.
-//                  Input : 4
-//                  Output : Its even
-//                  Input :7
-//                  Output : Its odd
-//
+//  Description   : It is used to check two numbers whether it Maximum number or Not. 
+//                  Accept Two numbers from user and check which number is maximum from them.
+//                  Input : 2 4
+//                  Output : 4
+//                  Input : 6 1
+//                  Output : 6
 //  Date          : 01/03/2021
 //  Author        : Pranav Anil Waghmare
 //
