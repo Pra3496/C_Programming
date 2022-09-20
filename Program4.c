@@ -1,22 +1,16 @@
-///////////////////////////////////////////////////////////////////////////////////
-//// 
-////  Program     : Accept number from user and display all the numbers till that number.
-////
-////  Author      : Pranav Anil Waghmare
-//// 
-////  Language    : C 
-////
-////  Discription : Algorithm for maximum
-////                  
-////  Accept number from user and display all the numbers till that number.
-//// Input : 8
-//// Output : 1   2   3   4   5   6   7   8
-////
-//// Input : -6
-//// Output : 1   2   3   4   5   6
-////
-////
-///////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+//  Function Name : Display
+//  Input         : Integer
+//  Output        : Integer (Numbers)
+//  Description   : It is used to check two numbers whether it Maximum number or Not. 
+//                  Accept number from user and display numbers from 1 to that number.
+//                  Input : 10
+//                  Output : 1  2  3  4  5  6  7  8  9  10
+//  Date          : 01/03/2021
+//  Author        : Pranav Anil Waghmare
+//
+////////////////////////////////////////////////////////////////////////////
+
 
 
 #include <stdio.h>
