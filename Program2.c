@@ -1,20 +1,21 @@
+////////////////////////////////////////////////////////////////////////////
+//
+//  Header File name : Header2.h
+//  Input         : Integer
+//  Output        : Integer (Maximum Number)
+//  Description   : It is used to check two numbers whether it Maximum number or Not. 
+//                  Accept Two numbers from user and check which number is maximum from them.
+//                  Input : 2 4
+//                  Output : 4
+//                  Input : 6 1
+//                  Output : 6
+//  Date          : 01/03/2021
+//  Author        : Pranav Anil Waghmare
+//
+////////////////////////////////////////////////////////////////////////////
 
-///////////////////////////////////////////////////////////////////////////////////
-//// 
-////  Program     : Accept 2 numbers fro user and return the maximum and minimum number.
-////
-////  Author      : Pranav Anil Waghmare
-//// 
-////  Language    : C 
-////
-////  Discription : Algorithm for maximum
-////                  
-//// 
-////
-///////////////////////////////////////////////////////////////////////////////////
 
-
-# include "Header2.h"
+#include "Header2.h"
 
 int main()
 {
