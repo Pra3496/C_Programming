@@ -5,26 +5,17 @@
 //  Function name : Fact
 //  Input         : Integer
 //  Output        : Integer (Factorial)
-//  Description   : It is used to check whetheer number is even or odd
-//                Accept number from user and return its factorial
-//                Input : 5
-//                Output : 5*4*3*2*1       (120)
-//
-//                Input :4
-//                Output : 4*3*2*1         (24)
-//                         1*2*3*4         (24)
-//
+//  Description   : It is used to display its Factor.
+//                  Accept number from user and return its factorial.
+//                  Input : 5
+//                  Output : 5*4*3*2*1 (120)
+//                  Input :4
+//                  Output : 4*3*2*1   (24)
+//                           1*2*3*4   (24)
 //  Date          : 01/03/2021
 //  Author        : Pranav Anil Waghmare
 //
 ////////////////////////////////////////////////////////////////////////////
-
-
-
-
-
-
-
 
 # include<stdio.h>
 int Fact(int iNo)
