@@ -1,11 +1,11 @@
 
 ////////////////////////////////////////////////////////////////////////////
 //
-//  Function name : CheckEven
+//  Function name : DisplayTable
 //  Input         : Integer
-//  Output        : Print Number
-//  Description   : It is used to check whetheer number is even or odd
-//                  Accept number from user and display its table
+//  Output        : Numbers 
+//  Description   : It is used to display Multiplication Table
+//                  Accept number from user and display its Multiplication table
 //                  Input 4
 //                  Output : 4   8   12  16  20  24  28  32  36  40
 //
